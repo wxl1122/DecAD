@@ -1,0 +1,9 @@
+DecAD
+Decoupling Anomalies in Latent Space for Multi-Class Unsupervised Anomaly Detection
+
+DecAD contributions: Copyright (c) 2026 DecAD authors. MIT License.
+
+This distribution includes DINOv2 source, copyright Meta Platforms, Inc. and
+affiliates, licensed under Apache-2.0. It also includes adapted research flow
+components with MIT licenses. See THIRD_PARTY_NOTICES.md, dinov2/LICENSE, and
+licenses/ for the upstream notices and full license texts.
